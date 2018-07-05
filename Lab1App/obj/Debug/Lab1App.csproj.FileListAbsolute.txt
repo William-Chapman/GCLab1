@@ -1,0 +1,7 @@
+C:\Users\Thom\Desktop\Will's Stuff\Lab1App\Lab1App\bin\Debug\Lab1App.exe.config
+C:\Users\Thom\Desktop\Will's Stuff\Lab1App\Lab1App\bin\Debug\Lab1App.exe
+C:\Users\Thom\Desktop\Will's Stuff\Lab1App\Lab1App\bin\Debug\Lab1App.pdb
+C:\Users\Thom\Desktop\Will's Stuff\Lab1App\Lab1App\obj\Debug\Lab1App.csprojAssemblyReference.cache
+C:\Users\Thom\Desktop\Will's Stuff\Lab1App\Lab1App\obj\Debug\Lab1App.csproj.CoreCompileInputs.cache
+C:\Users\Thom\Desktop\Will's Stuff\Lab1App\Lab1App\obj\Debug\Lab1App.exe
+C:\Users\Thom\Desktop\Will's Stuff\Lab1App\Lab1App\obj\Debug\Lab1App.pdb
